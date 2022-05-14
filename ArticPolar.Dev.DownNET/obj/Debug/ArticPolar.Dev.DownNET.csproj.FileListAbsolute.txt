@@ -1,0 +1,5 @@
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.DownNET\ArticPolar.Dev.DownNET\bin\Debug\ArticPolar.Dev.DownNET.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.DownNET\ArticPolar.Dev.DownNET\bin\Debug\ArticPolar.Dev.DownNET.pdb
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.DownNET\ArticPolar.Dev.DownNET\obj\Debug\ArticPolar.Dev.DownNET.csprojResolveAssemblyReference.cache
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.DownNET\ArticPolar.Dev.DownNET\obj\Debug\ArticPolar.Dev.DownNET.dll
+c:\users\erive\onedrive\documents\visual studio 2012\Projects\ArticPolar.Dev.DownNET\ArticPolar.Dev.DownNET\obj\Debug\ArticPolar.Dev.DownNET.pdb
